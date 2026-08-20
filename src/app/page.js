@@ -1,9 +1,9 @@
-import Dashboard from "@/components/Dashboard";
+import StatsCards from "@/components/StatsCards";
 
 export default function Home() {
   return (
-    <div className="">
-      <Dashboard />
+    <div className="p-6">
+      <StatsCards />
     </div>
   );
 }
