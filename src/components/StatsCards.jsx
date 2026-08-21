@@ -1,3 +1,5 @@
+"use client";
+
 const stats = [
   {
     title: "Total Sales",

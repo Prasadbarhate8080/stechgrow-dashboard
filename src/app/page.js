@@ -1,5 +1,4 @@
 import { Dashboard } from "@/components/Dashboard";
-import StatsCards from "@/components/StatsCards";
 
 export default function Home() {
   return (
